@@ -24,3 +24,4 @@ Expenses are stored in one array of objects, not individual variables:
 ```js
 let expenses = [];
 expenses.push({ category: "Food", amount: 5000 });
+Update Test: Now Live on Netlify!
